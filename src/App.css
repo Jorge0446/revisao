@@ -1,11 +1,11 @@
-:root {
+:root { 
     --Rosa-medio: #F865B0;
     --Rosa-claro: #FBCAEF;
     --Rosa-escuro: #E637BF;
     --Azul-verde: #D2F1E4;
     --Rosa: #FA98D0;
     --Roxao: #48304D;
-}
+} 
 
 * {
     margin: 0;
