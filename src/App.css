@@ -63,9 +63,9 @@ button {
     margin-top: 1rem; 
 }
 
-button:hover {
+/* button:hover { 
     background: var(--Rosa-escuro);
     color: white;
     cursor:pointer;
     transition: 1s;
-}
+} */
